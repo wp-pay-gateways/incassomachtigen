@@ -18,6 +18,19 @@
 - http://www.incassomachtigen.nl/incassant/hoe-word-ik-incassant/
 - http://www.incassomachtigen.nl/incassant/hoe-word-ik-incassant/stappenplannen/
 
+#### Technische documentatie
+
+- [Implementatiehandleiding voor standaard Incassomachtigen (CIG B2C)](http://www.incassomachtigen.nl/wp-uploads/Incassomachtigen-Implementatiegids-B2C.pdf)
+- [Implementation guide for standard eMandates (CIG B2C)](http://www.incassomachtigen.nl/wp-uploads/eMandates-Implementation-Guide-B2C.pdf)
+- [Implementatiehandleiding voor zakelijk Incassomachtigen (CIG B2B)](http://www.incassomachtigen.nl/wp-uploads/Incassomachtigen-Implementatiegids-B2B.pdf)
+- [Implementation guide for business eMandates (CIG B2B)](http://www.incassomachtigen.nl/wp-uploads/eMandates-Implementation-Guide-B2B.pdf)
+
+#### Software libraries
+- [eMandates Creditor Libraries Integration Manual](http://www.incassomachtigen.nl/wp-uploads/eMandates-Creditor-Libraries-Integration-Manual.pdf)
+- [.NET `v1.14`](http://www.incassomachtigen.nl/wp-uploads/eMandates-Creditor-Library-DotNET.zip)
+- [Java `v1.14`](http://www.incassomachtigen.nl/wp-uploads/eMandates-Creditor-Library-Java.zip)
+- [PHP `v1.14`](http://www.incassomachtigen.nl/wp-uploads/eMandates-Creditor-Library-PHP.zip)
+
 ### Betaalvereniging Nederland
 
 - http://www.betaalvereniging.nl/
