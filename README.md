@@ -42,6 +42,14 @@
 - http://www.currence.nl/producten/incassomachtigen/licentie-en-certificaathouders-en-msps-incassomachtigen/
 - http://www.currence.nl/en/emandates-licencees-certificate-holders/
 
+### PayIBAN
+
+- https://www.payiban.com/
+- https://www.payiban.com/api/
+- https://www.payiban.com/machtigen/payiban/
+- https://wordpress.org/plugins/search.php?q=payiban
+- https://easydigitaldownloads.com/3rd-party-extensions/
+
 ### ING
 
 - https://www.ing.nl/zakelijk/betalen/geld-ontvangen/incassomachtigen/index.html
