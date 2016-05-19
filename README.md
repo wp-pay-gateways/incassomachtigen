@@ -17,6 +17,7 @@
 - http://www.incassomachtigen.nl/downloads/
 - http://www.incassomachtigen.nl/incassant/hoe-word-ik-incassant/
 - http://www.incassomachtigen.nl/incassant/hoe-word-ik-incassant/stappenplannen/
+- [Huisstijlhandboek - Richtlijnen en instructies voor het gebruik van het Incassomachtigen beeldmerk - Augustus 2015 | Versie `2.1`](https://www.pronamic.nl/wp-content/uploads/2016/05/HandleidingHuisstijl_2_1.pdf)
 
 #### Technische documentatie
 
@@ -66,6 +67,24 @@
 - https://www.rabobank.com/nl/press/search/2016/20160115_digitale_incasso.html
 - https://www.rabobank.nl/dim
 - https://machtigen.rabobank.nl/
+- https://machtigentest.rabobank.nl/
+- [Rabobank - Handleiding Rabo Digitaal Incassomachtigen - Versie `1.05`](https://www.pronamic.nl/wp-content/uploads/2016/05/handleiding-digitaal-incassomachtigen_29775240.pdf)
+
+#### Test
+
+| Service               | URL                                                            |
+| --------------------- | -------------------------------------------------------------- |
+| Directoryservice URL	| `https://machtigentest.rabobank.nl/bvn-idx-routing/bvnGateway` |
+| Statusservice URL	    | `https://machtigentest.rabobank.nl/bvn-idx-routing/bvnGateway` |
+| Transactieservice URL	| `https://machtigentest.rabobank.nl/bvn-idx-routing/bvnGateway` |
+
+#### Productie
+
+| Service               | URL                                                            |
+| --------------------- | -------------------------------------------------------------- |
+| Directoryservice URL	| `https://machtigen.rabobank.nl/bvn-idx-routing/bvnGateway`     |
+| Statusservice URL	    | `https://machtigen.rabobank.nl/bvn-idx-routing/bvnGateway`     |
+| Transactieservice URL	| `https://machtigen.rabobank.nl/bvn-idx-routing/bvnGateway`     |
 
 ### Other
 
