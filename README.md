@@ -58,9 +58,9 @@
 
 | Service               | URL                                                        |
 | --------------------- | ---------------------------------------------------------- |
-| Directoryservice URL	| `https://machtigen.secure-ing.com/EMRoutingWS/handler/ing` |
-| Statusservice URL	    | `https://machtigen.secure-ing.com/EMRoutingWS/handler/ing` |
-| Transactieservice URL	| `https://machtigen.secure-ing.com/EMRoutingWS/handler/ing` |
+| Directoryservice URL  | `https://machtigen.secure-ing.com/EMRoutingWS/handler/ing` |
+| Statusservice URL     | `https://machtigen.secure-ing.com/EMRoutingWS/handler/ing` |
+| Transactieservice URL | `https://machtigen.secure-ing.com/EMRoutingWS/handler/ing` |
 
 ### Rabobank
 
@@ -74,17 +74,17 @@
 
 | Service               | URL                                                            |
 | --------------------- | -------------------------------------------------------------- |
-| Directoryservice URL	| `https://machtigentest.rabobank.nl/bvn-idx-routing/bvnGateway` |
-| Statusservice URL	    | `https://machtigentest.rabobank.nl/bvn-idx-routing/bvnGateway` |
-| Transactieservice URL	| `https://machtigentest.rabobank.nl/bvn-idx-routing/bvnGateway` |
+| Directoryservice URL  | `https://machtigentest.rabobank.nl/bvn-idx-routing/bvnGateway` |
+| Statusservice URL     | `https://machtigentest.rabobank.nl/bvn-idx-routing/bvnGateway` |
+| Transactieservice URL | `https://machtigentest.rabobank.nl/bvn-idx-routing/bvnGateway` |
 
 #### Productie
 
 | Service               | URL                                                            |
 | --------------------- | -------------------------------------------------------------- |
-| Directoryservice URL	| `https://machtigen.rabobank.nl/bvn-idx-routing/bvnGateway`     |
-| Statusservice URL	    | `https://machtigen.rabobank.nl/bvn-idx-routing/bvnGateway`     |
-| Transactieservice URL	| `https://machtigen.rabobank.nl/bvn-idx-routing/bvnGateway`     |
+| Directoryservice URL  | `https://machtigen.rabobank.nl/bvn-idx-routing/bvnGateway`     |
+| Statusservice URL     | `https://machtigen.rabobank.nl/bvn-idx-routing/bvnGateway`     |
+| Transactieservice URL | `https://machtigen.rabobank.nl/bvn-idx-routing/bvnGateway`     |
 
 ### Other
 
